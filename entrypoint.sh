@@ -77,7 +77,7 @@ function is_path_markdown {
 function c_mermaid {
   printf "Compiling: %s\n" "${1}"
   printf "Output to: %s\n" "${2}"
-  /node_modules/.bin/mmdc -p /mmdc/puppeteer-config.json -i "${1}" -o "${2}"
+  /node_modules/.bin/mmdc -p /mmdc/puppeteer-config.json -i "${1}" -o "${2}" -b white
   confirm_creation "${2}"
 }
 
