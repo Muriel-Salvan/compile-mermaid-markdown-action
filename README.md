@@ -1,3 +1,14 @@
+> [!WARNING]
+> **This project is obsolete and no longer maintained.**
+>
+> This repository has been archived and is kept only for historical purposes. It has been **superseded by [Github's Mermaid feature](https://github.com/github/roadmap/issues/372)**, which is actively maintained and should be used instead.
+>
+> **Why was it discontinued?**
+> This project was just a workaround of the previously missing Github feature displaying Mermaid diagrams.
+>
+> 👉 **Use [Github native support for Mermaid](https://github.blog/developer-skills/github/include-diagrams-markdown-files-mermaid/) instead.**
+
+
 > NOTICE: Github has publicly added mermaid support to their roadmap to support ([ref](https://github.com/github/roadmap/issues/372)).  When it is released, this action will be archived and removed from the market place.
 
 # compile-mermaid-markdown-action (beta)
